@@ -6,7 +6,7 @@
 int main() {
     char* isim; //* koyunca ramda limitsiz karakter acar
     isim = "Miray";
-    printf("%s", isim); //f'nin önüne kaç yazarsak o kadar sayı yazdırır.
-
+    printf("%s", isim); //%s string için yer tutucu
+    s
     return 1;
 }*/
