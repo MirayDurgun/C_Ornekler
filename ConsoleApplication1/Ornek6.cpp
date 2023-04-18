@@ -7,6 +7,6 @@
 
 int main() {
 	char karar = 'E';
-	printf("%c", karar);
+	printf("%c", karar); //%c tek bir karakter (char) için yer tutucu
 	return 1;
 }*/
