@@ -145,6 +145,8 @@
     <ClCompile Include="Ornek22.cpp" />
     <ClCompile Include="Ornek23.cpp" />
     <ClCompile Include="Ornek24.cpp" />
+    <ClCompile Include="Ornek25.cpp" />
+    <ClCompile Include="Ornek26.cpp" />
     <ClCompile Include="Ornek3.cpp" />
     <ClCompile Include="Ornek4.cpp" />
     <ClCompile Include="Ornek5.cpp" />
